@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1028942732826",
+    "firebase_url": "https://merde-f2a11.firebaseio.com",
+    "project_id": "merde-f2a11",
+    "storage_bucket": "merde-f2a11.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1028942732826:android:db5c7ba7f77e4436cd7ba3",
+        "android_client_info": {
+          "package_name": "com.example.merde"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1028942732826-qhhnfpglrlo3ks51e62r7rdg702jrst8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAMsxDCIOgpbgYF7dXUv9TUXya0vynDP4M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1028942732826-qhhnfpglrlo3ks51e62r7rdg702jrst8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
